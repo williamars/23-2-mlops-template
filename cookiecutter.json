@@ -1,0 +1,5 @@
+{
+    "directory_name": "mlops-template",
+    "author_name": "William Reis",
+    "compatible_python_versions": "^3.8"
+}
